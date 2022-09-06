@@ -1,0 +1,163 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_viirs_" : "FID_viirs_",
+    "PA_Str" : "PA_Str",
+    "DMSLat" : "DMSLat",
+    "DMSLon" : "DMSLon",
+    "NAME" : "NAME",
+    "PA_Str_1" : "PA_Str_1",
+    "PA_Num_1" : "PA_Num_1"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_viirs_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_viirs_"
+    },
+    {
+      "name" : "PA_Str",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str",
+      "length" : 3
+    },
+    {
+      "name" : "DMSLat",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLat",
+      "length" : 254
+    },
+    {
+      "name" : "DMSLon",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLon",
+      "length" : 254
+    },
+    {
+      "name" : "NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "NAME",
+      "length" : 50
+    },
+    {
+      "name" : "PA_Str_1",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str_1",
+      "length" : 3
+    },
+    {
+      "name" : "PA_Num_1",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "PA_Num_1"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 1,
+        "FID_viirs_" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "06°54'47.97\" LU",
+        "DMSLon" : "122°30'59.04\" BT",
+        "NAME" : "Titik ZPPI No. 1 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 122.51640249600004,
+        "y" : 6.9133251820000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "FID_viirs_" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "05°23'53.04\" LU",
+        "DMSLon" : "122°54'42.55\" BT",
+        "NAME" : "Titik ZPPI No. 2 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 122.91182087199999,
+        "y" : 5.3980667070000123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "FID_viirs_" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "05°31'43.35\" LU",
+        "DMSLon" : "123°00'18.36\" BT",
+        "NAME" : "Titik ZPPI No. 3 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 123.00510232300005,
+        "y" : 5.5287084200000471
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "FID_viirs_" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "05°37'45.37\" LU",
+        "DMSLon" : "124°25'07.85\" BT",
+        "NAME" : "Titik ZPPI No. 4 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 124.41884758100004,
+        "y" : 5.6292715760000469
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "FID_viirs_" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "05°31'24.68\" LU",
+        "DMSLon" : "124°27'22.11\" BT",
+        "NAME" : "Titik ZPPI No. 5 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 124.45614182000006,
+        "y" : 5.5235245470000329
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "FID_viirs_" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "05°19'58.76\" LU",
+        "DMSLon" : "124°28'31.99\" BT",
+        "NAME" : "Titik ZPPI No. 6 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 124.475553201,
+        "y" : 5.3329911920000441
+      }
+    }
+  ]
+}

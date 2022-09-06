@@ -1,0 +1,115 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_AQUA_2" : "FID_AQUA_2",
+    "PA_Str" : "PA_Str",
+    "DMSLat" : "DMSLat",
+    "DMSLon" : "DMSLon",
+    "NAME" : "NAME",
+    "PA_Str_1" : "PA_Str_1",
+    "PA_Num_1" : "PA_Num_1"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_AQUA_2",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_AQUA_2"
+    },
+    {
+      "name" : "PA_Str",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str",
+      "length" : 3
+    },
+    {
+      "name" : "DMSLat",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLat",
+      "length" : 254
+    },
+    {
+      "name" : "DMSLon",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLon",
+      "length" : 254
+    },
+    {
+      "name" : "NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "NAME",
+      "length" : 50
+    },
+    {
+      "name" : "PA_Str_1",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str_1",
+      "length" : 3
+    },
+    {
+      "name" : "PA_Num_1",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "PA_Num_1"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "02°54'50.10\" LS",
+        "DMSLon" : "124°53'54.96\" BT",
+        "NAME" : "Titik ZPPI No. 1 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.89860023600012,
+        "y" : -2.9139191819999848
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "03°06'43.45\" LS",
+        "DMSLon" : "124°54'57.68\" BT",
+        "NAME" : "Titik ZPPI No. 2 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.91602452000004,
+        "y" : -3.1120697979999772
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "02°45'44.88\" LS",
+        "DMSLon" : "124°57'47.69\" BT",
+        "NAME" : "Titik ZPPI No. 3 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.96324974100001,
+        "y" : -2.7624669979999954
+      }
+    }
+  ]
+}

@@ -1,0 +1,1011 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_AQUA_2" : "FID_AQUA_2",
+    "PA_Str" : "PA_Str",
+    "DMSLat" : "DMSLat",
+    "DMSLon" : "DMSLon",
+    "NAME" : "NAME",
+    "PA_Str_1" : "PA_Str_1",
+    "PA_Num_1" : "PA_Num_1"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_AQUA_2",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_AQUA_2"
+    },
+    {
+      "name" : "PA_Str",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str",
+      "length" : 3
+    },
+    {
+      "name" : "DMSLat",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLat",
+      "length" : 254
+    },
+    {
+      "name" : "DMSLon",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLon",
+      "length" : 254
+    },
+    {
+      "name" : "NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "NAME",
+      "length" : 50
+    },
+    {
+      "name" : "PA_Str_1",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str_1",
+      "length" : 3
+    },
+    {
+      "name" : "PA_Num_1",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "PA_Num_1"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 193,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "02°13'45.29\" LS",
+        "DMSLon" : "122°04'06.18\" BT",
+        "NAME" : "Titik ZPPI No. 1 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.06838561700006,
+        "y" : -2.2292489389999108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "02°07'32.08\" LS",
+        "DMSLon" : "122°06'03.81\" BT",
+        "NAME" : "Titik ZPPI No. 2 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.10105845000007,
+        "y" : -2.1255789709998911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "06°52'18.26\" LS",
+        "DMSLon" : "122°08'50.06\" BT",
+        "NAME" : "Titik ZPPI No. 3 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.14724160500008,
+        "y" : -6.8717396869999607
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "06°58'57.15\" LS",
+        "DMSLon" : "122°13'29.84\" BT",
+        "NAME" : "Titik ZPPI No. 4 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.22495673100002,
+        "y" : -6.98254249899996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "05°38'00.42\" LS",
+        "DMSLon" : "122°16'14.47\" BT",
+        "NAME" : "Titik ZPPI No. 5 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.27068820400004,
+        "y" : -5.6334506869999128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "05°57'13.22\" LS",
+        "DMSLon" : "122°23'30.90\" BT",
+        "NAME" : "Titik ZPPI No. 6 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.39191738800004,
+        "y" : -5.953673972999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "05°54'39.94\" LS",
+        "DMSLon" : "122°30'03.35\" BT",
+        "NAME" : "Titik ZPPI No. 7 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.50093250800009,
+        "y" : -5.9110969169999077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "03°22'28.88\" LS",
+        "DMSLon" : "122°33'43.08\" BT",
+        "NAME" : "Titik ZPPI No. 8 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.56196692900001,
+        "y" : -3.3746896099999528
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "03°34'21.42\" LS",
+        "DMSLon" : "122°39'46.61\" BT",
+        "NAME" : "Titik ZPPI No. 9 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.66294866800001,
+        "y" : -3.572618995999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "05°58'30.58\" LS",
+        "DMSLon" : "122°40'57.34\" BT",
+        "NAME" : "Titik ZPPI No. 10 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.68259672100007,
+        "y" : -5.9751619729999366
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "03°36'15.38\" LS",
+        "DMSLon" : "122°41'18.55\" BT",
+        "NAME" : "Titik ZPPI No. 11 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.68848643800004,
+        "y" : -3.6042741179999442
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "05°52'07.82\" LS",
+        "DMSLon" : "122°42'43.38\" BT",
+        "NAME" : "Titik ZPPI No. 12 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.71205087900012,
+        "y" : -5.868840578999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "05°54'17.03\" LS",
+        "DMSLon" : "122°43'21.76\" BT",
+        "NAME" : "Titik ZPPI No. 13 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.72271357800004,
+        "y" : -5.9047316169999302
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "03°43'04.39\" LS",
+        "DMSLon" : "122°44'57.21\" BT",
+        "NAME" : "Titik ZPPI No. 14 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 122.74922560700011,
+        "y" : -3.7178875179999675
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°34'04.22\" LS",
+        "DMSLon" : "123°32'56.58\" BT",
+        "NAME" : "Titik ZPPI No. 15 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.54905089500005,
+        "y" : -0.56784047199995058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°35'49.94\" LS",
+        "DMSLon" : "123°34'18.74\" BT",
+        "NAME" : "Titik ZPPI No. 16 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.57187349000006,
+        "y" : -0.59720742399999338
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°40'25.49\" LS",
+        "DMSLon" : "123°35'29.51\" BT",
+        "NAME" : "Titik ZPPI No. 17 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.59153148700013,
+        "y" : -0.67374950899995767
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°58'03.52\" LS",
+        "DMSLon" : "123°36'20.46\" BT",
+        "NAME" : "Titik ZPPI No. 18 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.60568609200004,
+        "y" : -0.96764637799992492
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°33'17.58\" LS",
+        "DMSLon" : "123°37'22.52\" BT",
+        "NAME" : "Titik ZPPI No. 19 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.62292360500012,
+        "y" : -0.55488544099998904
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°29'47.04\" LS",
+        "DMSLon" : "123°40'11.93\" BT",
+        "NAME" : "Titik ZPPI No. 20 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.66998236300002,
+        "y" : -0.49640141699997287
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°53'03.68\" LS",
+        "DMSLon" : "123°42'25.20\" BT",
+        "NAME" : "Titik ZPPI No. 21 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.70700264500012,
+        "y" : -0.88435810699999884
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°02'27.61\" LS",
+        "DMSLon" : "123°43'49.39\" BT",
+        "NAME" : "Titik ZPPI No. 22 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.73038793500004,
+        "y" : -1.0410029789999324
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°17'55.65\" LS",
+        "DMSLon" : "123°44'30.35\" BT",
+        "NAME" : "Titik ZPPI No. 23 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.74176428700002,
+        "y" : -0.29879425599991549
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°15'07.37\" LS",
+        "DMSLon" : "123°47'11.66\" BT",
+        "NAME" : "Titik ZPPI No. 24 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.78657371900015,
+        "y" : -0.25204850699990544
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°09'26.54\" LS",
+        "DMSLon" : "123°49'09.41\" BT",
+        "NAME" : "Titik ZPPI No. 25 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.81928231000009,
+        "y" : -1.1573736649999216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°05'01.27\" LS",
+        "DMSLon" : "123°53'35.18\" BT",
+        "NAME" : "Titik ZPPI No. 26 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.89310798400001,
+        "y" : -0.083686522999940394
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°07'42.49\" LS",
+        "DMSLon" : "123°55'26.88\" BT",
+        "NAME" : "Titik ZPPI No. 27 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 123.92413373000008,
+        "y" : -1.1284699549999271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°15'50.39\" LS",
+        "DMSLon" : "124°00'07.02\" BT",
+        "NAME" : "Titik ZPPI No. 28 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.00195131799998,
+        "y" : -1.2639974569999151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°24'34.33\" LS",
+        "DMSLon" : "124°00'37.27\" BT",
+        "NAME" : "Titik ZPPI No. 29 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.01035282000012,
+        "y" : -0.40953862099996385
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°33'41.67\" LS",
+        "DMSLon" : "124°01'33.57\" BT",
+        "NAME" : "Titik ZPPI No. 30 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.02599350500007,
+        "y" : -0.56157761399992268
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°26'24.57\" LS",
+        "DMSLon" : "124°02'11.52\" BT",
+        "NAME" : "Titik ZPPI No. 31 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.03653430000011,
+        "y" : -1.4401605169999048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°24'24.88\" LS",
+        "DMSLon" : "124°02'28.33\" BT",
+        "NAME" : "Titik ZPPI No. 32 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.04120412200007,
+        "y" : -0.40691284799995486
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°01'19.78\" LS",
+        "DMSLon" : "124°02'31.27\" BT",
+        "NAME" : "Titik ZPPI No. 33 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.04202085500005,
+        "y" : -0.022163709999936998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°28'54.30\" LS",
+        "DMSLon" : "124°04'04.26\" BT",
+        "NAME" : "Titik ZPPI No. 34 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.06785276900007,
+        "y" : -0.48175174799995091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°28'24.39\" LS",
+        "DMSLon" : "124°05'32.24\" BT",
+        "NAME" : "Titik ZPPI No. 35 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.09229102800008,
+        "y" : -0.47344395399992223
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°31'34.99\" LS",
+        "DMSLon" : "124°08'13.88\" BT",
+        "NAME" : "Titik ZPPI No. 36 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.13719123600006,
+        "y" : -1.5263887129999869
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°08'00.72\" LS",
+        "DMSLon" : "124°38'25.90\" BT",
+        "NAME" : "Titik ZPPI No. 37 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.64052884500008,
+        "y" : -1.1335342669999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°00'24.41\" LS",
+        "DMSLon" : "124°40'47.97\" BT",
+        "NAME" : "Titik ZPPI No. 38 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.67999428200008,
+        "y" : -1.0067829079999751
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°03'11.60\" LS",
+        "DMSLon" : "124°43'21.78\" BT",
+        "NAME" : "Titik ZPPI No. 39 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.72271891400008,
+        "y" : -1.0532242239999317
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°02'24.96\" LS",
+        "DMSLon" : "124°45'29.06\" BT",
+        "NAME" : "Titik ZPPI No. 40 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.75807357900013,
+        "y" : -1.0402690689999599
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°00'06.25\" LS",
+        "DMSLon" : "124°46'26.75\" BT",
+        "NAME" : "Titik ZPPI No. 41 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.77409998500002,
+        "y" : -1.0017363159999508
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°10'23.53\" LS",
+        "DMSLon" : "124°47'23.85\" BT",
+        "NAME" : "Titik ZPPI No. 42 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.78996073200005,
+        "y" : -1.173203895999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°53'37.00\" LS",
+        "DMSLon" : "124°51'13.68\" BT",
+        "NAME" : "Titik ZPPI No. 43 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 124.85380219400005,
+        "y" : -0.8936135090000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°33'15.31\" LS",
+        "DMSLon" : "125°55'07.31\" BT",
+        "NAME" : "Titik ZPPI No. 44 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 125.91869937600009,
+        "y" : -0.55425402999988194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°44'59.29\" LS",
+        "DMSLon" : "125°55'52.98\" BT",
+        "NAME" : "Titik ZPPI No. 45 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 125.93138595200004,
+        "y" : -0.74980404099990672
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°30'12.44\" LS",
+        "DMSLon" : "125°58'44.92\" BT",
+        "NAME" : "Titik ZPPI No. 46 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 125.97914502900005,
+        "y" : -1.5034556549999127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°25'40.11\" LS",
+        "DMSLon" : "126°04'22.44\" BT",
+        "NAME" : "Titik ZPPI No. 47 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.07290190800009,
+        "y" : -1.4278085320000127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°19'27.82\" LS",
+        "DMSLon" : "126°04'41.65\" BT",
+        "NAME" : "Titik ZPPI No. 48 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.07823850400004,
+        "y" : -1.3243946149999513
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°33'37.56\" LS",
+        "DMSLon" : "126°05'06.28\" BT",
+        "NAME" : "Titik ZPPI No. 49 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.08507812800009,
+        "y" : -1.5604353009998899
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°36'48.11\" LS",
+        "DMSLon" : "126°14'42.12\" BT",
+        "NAME" : "Titik ZPPI No. 50 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.24503351300002,
+        "y" : -1.6133642479999093
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°30'47.83\" LS",
+        "DMSLon" : "126°16'50.86\" BT",
+        "NAME" : "Titik ZPPI No. 51 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.28079561800003,
+        "y" : -1.5132878379999486
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "01°36'48.02\" LS",
+        "DMSLon" : "126°28'34.86\" BT",
+        "NAME" : "Titik ZPPI No. 52 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.47635172000003,
+        "y" : -1.6133397099999218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°15'42.27\" LS",
+        "DMSLon" : "126°30'52.32\" BT",
+        "NAME" : "Titik ZPPI No. 53 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.51453604600007,
+        "y" : -0.26174442899994688
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°25'18.67\" LS",
+        "DMSLon" : "126°38'37.48\" BT",
+        "NAME" : "Titik ZPPI No. 54 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.64374544100008,
+        "y" : -0.42185468399990356
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°18'55.24\" LS",
+        "DMSLon" : "126°40'28.31\" BT",
+        "NAME" : "Titik ZPPI No. 55 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.67453061400013,
+        "y" : -0.31534526199995838
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°26'13.69\" LS",
+        "DMSLon" : "126°43'59.37\" BT",
+        "NAME" : "Titik ZPPI No. 56 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.73316102700009,
+        "y" : -0.43713647299991365
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°41'21.27\" LS",
+        "DMSLon" : "126°44'07.73\" BT",
+        "NAME" : "Titik ZPPI No. 57 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.73548253400006,
+        "y" : -0.68924429999991688
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°18'12.23\" LS",
+        "DMSLon" : "126°46'23.21\" BT",
+        "NAME" : "Titik ZPPI No. 58 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.77311625800012,
+        "y" : -0.30339753799994185
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "14",
+        "DMSLat" : "00°51'00.03\" LS",
+        "DMSLon" : "126°48'13.19\" BT",
+        "NAME" : "Titik ZPPI No. 59 (Zona 14)",
+        "PA_Str_1" : "14",
+        "PA_Num_1" : 14
+      },
+      "geometry" : {
+        "x" : 126.80366461000003,
+        "y" : -0.85001035699995775
+      }
+    }
+  ]
+}

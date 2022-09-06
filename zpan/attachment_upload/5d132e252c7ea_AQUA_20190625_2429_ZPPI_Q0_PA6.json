@@ -1,0 +1,179 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_AQUA_2" : "FID_AQUA_2",
+    "PA_Str" : "PA_Str",
+    "DMSLat" : "DMSLat",
+    "DMSLon" : "DMSLon",
+    "NAME" : "NAME",
+    "PA_Str_1" : "PA_Str_1",
+    "PA_Num_1" : "PA_Num_1"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_AQUA_2",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_AQUA_2"
+    },
+    {
+      "name" : "PA_Str",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str",
+      "length" : 3
+    },
+    {
+      "name" : "DMSLat",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLat",
+      "length" : 254
+    },
+    {
+      "name" : "DMSLon",
+      "type" : "esriFieldTypeString",
+      "alias" : "DMSLon",
+      "length" : 254
+    },
+    {
+      "name" : "NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "NAME",
+      "length" : 50
+    },
+    {
+      "name" : "PA_Str_1",
+      "type" : "esriFieldTypeString",
+      "alias" : "PA_Str_1",
+      "length" : 3
+    },
+    {
+      "name" : "PA_Num_1",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "PA_Num_1"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 4,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "02°04'42.65\" LU",
+        "DMSLon" : "124°49'26.63\" BT",
+        "NAME" : "Titik ZPPI No. 1 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 124.82406435300007,
+        "y" : 2.0785162280000904
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "01°58'46.95\" LU",
+        "DMSLon" : "124°53'23.99\" BT",
+        "NAME" : "Titik ZPPI No. 2 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 124.88999749400011,
+        "y" : 1.9797090360000738
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "01°59'23.02\" LU",
+        "DMSLon" : "125°00'39.11\" BT",
+        "NAME" : "Titik ZPPI No. 3 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 125.0108658410001,
+        "y" : 1.9897304860000489
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "01°50'57.39\" LU",
+        "DMSLon" : "125°26'20.20\" BT",
+        "NAME" : "Titik ZPPI No. 4 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 125.43894708900004,
+        "y" : 1.8492770000000682
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "01°48'23.55\" LU",
+        "DMSLon" : "125°31'24.66\" BT",
+        "NAME" : "Titik ZPPI No. 5 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 125.52351751800009,
+        "y" : 1.8065422740000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "01°51'22.84\" LU",
+        "DMSLon" : "125°35'55.24\" BT",
+        "NAME" : "Titik ZPPI No. 6 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 125.59867844000007,
+        "y" : 1.8563448320000866
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "FID_AQUA_2" : -1,
+        "PA_Str" : "6",
+        "DMSLat" : "01°55'27.56\" LU",
+        "DMSLon" : "125°44'50.90\" BT",
+        "NAME" : "Titik ZPPI No. 7 (Zona 6)",
+        "PA_Str_1" : "6",
+        "PA_Num_1" : 6
+      },
+      "geometry" : {
+        "x" : 125.74747242200013,
+        "y" : 1.9243226280000272
+      }
+    }
+  ]
+}
